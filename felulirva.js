@@ -7,7 +7,7 @@ export const felulirni = [
                     Folát, folsav (zöld levelű zöldségek, citrusfélék, babfélék, hüvelyesek, máj, aktív élesztőkultúra, házi szesz); \
                     Omega 3 zsírsav (lenolaj, dióóolaj, tonhal, hering, lazac, pisztráng, makréla, szardella, szardínia, busa, szójabab, olívaolaj, \
                     mandulaolaj, kendermag, fenyőmag) pótlása, heti 2-3x halat enni; \
-                    Méregtelenítést végezni (https://drive.google.com/file/d/1ebUijb2Z003TFt3G_K0b1WRhQnsEhcyg/view?usp=sharing); \
+                    Méregtelenítést végezni (https://github.com/radarpok/personal_development/blob/main/tisztitokura.js); \
                     Sóbevitel fokozása (parajdi!!!), főleg, ha magas az aldoszteron szint \
                     (https://drive.google.com/file/d/1O5sv_fr_-WOb4GLp87FfhfIVGCFxxC8u/view?usp=sharing); \
                     Pajzs- és tobozmirigy egészségéért tenni!'
