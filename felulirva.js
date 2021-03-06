@@ -34,7 +34,7 @@ export const felulirni = [
         id: 5,
         felulirando: 'Szőrszálhasogatásig elemezni dolgokat, míg rám nem jön a feszültségérzet',
         felulirva: 'Fizikai munkát végezni, a többit rábízni a tudatfelettire \
-                     (https://drive.google.com/file/d/1xYftgi0D1sjcINzVAChojgjXKpTKDFgR/view?usp=sharing)'
+                    (https://drive.google.com/file/d/1xYftgi0D1sjcINzVAChojgjXKpTKDFgR/view?usp=sharing)'
     },
     {
         id: 6,
@@ -45,8 +45,8 @@ export const felulirni = [
     {
         id: 7,
         felulirando: 'Gyakori elkalandozás, merengés + kiszámítható körülmények meglétének szükségérzete ahhoz, hogy mindenre választ találjak',
-        felulirva: 'Feltenni magamban a pontos kérdést, majd nem gondolni rá, hagyni hogy kikristályosodjon a válasz; A pontos kérdés \
-                    megfogalmazásához: programot adni az elemeknek mos(d)ás közben, lélegzés közben, tűzgyújtás közben, kertrendezés közben, \
+        felulirva: 'Feltenni magamban a pontos kérdést, majd nem gondolni rá, hagyni hogy kikristályosodjon a válasz; A pontos kérdés megfogalmazásához: \
+                    programot adni az elemeknek mos(d)ás közben, lélegzés közben, tűzgyújtás közben, kertrendezés közben, \
                     hogy ami eddig rombolt az áldássá váljon bennem, összesen MAX 10 percet szánni a gondolat fenntartására naponta!'
     },
     {
